@@ -7,4 +7,12 @@ TypeScriptを学ぶためのリポジトリです
 2. トラブルシューティングにAIを使用しないこと
 3. ひたすらコーディングすること
 
-## 環境構築
+## コマンド
+- コンパイル
+```bash
+./node_modules/.bin/tsc
+```
+- 実行
+```bash
+node ./dist/src/hoge.js
+```
