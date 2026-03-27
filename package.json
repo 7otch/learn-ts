@@ -1,0 +1,25 @@
+{
+  "name": "learn-ts",
+  "version": "1.0.0",
+  "description": "**\"Rome was not built in a day.\"**   TypeScriptを学ぶためのリポジトリです",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7otch/learn-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/7otch/learn-ts/issues"
+  },
+  "homepage": "https://github.com/7otch/learn-ts#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2"
+  }
+}
