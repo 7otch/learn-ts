@@ -10,9 +10,9 @@ TypeScriptを学ぶためのリポジトリです
 ## コマンド
 - コンパイル
 ```bash
-./node_modules/.bin/tsc
+npx tsc
 ```
 - 実行
 ```bash
-node ./dist/src/hoge.js
+node dist/hoge.js
 ```
