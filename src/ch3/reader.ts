@@ -1,4 +1,4 @@
-type User = {
+type UserOld = {
   name: string,
   age: number,
   premiumUser: boolean,
@@ -10,7 +10,7 @@ John,32,0
 Hiroshi,45,1
 `;
 
-const users: User[] = [];
+const users: UserOld[] = [];
 const lines = data.split('\n');
 
 for (const line of lines) {
